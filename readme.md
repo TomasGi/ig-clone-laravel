@@ -25,4 +25,4 @@ $ php artisan migrate
 # launch server
 $ php artisan serve
 
-For detailed explanation on how things work, check out [Laravel docs docs](https://laravel.com/).
+For detailed explanation on how things work, check out [Laravel docs](https://laravel.com/).
